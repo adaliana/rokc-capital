@@ -1,2 +1,2 @@
 # ROKC Capital
-ROKC wbesite and blog for my coaching and consulting business
+ROKC website and blog for my coaching and consulting business
